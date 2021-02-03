@@ -11,7 +11,7 @@
 
 ## Step-By-Step tutorial on how to load c0wadlina:
 1.   Get a USB Flash Drive
-2.   Download `EFILOADER` folder and place all files in it to the root directory of your USB, so the USB looks like this:
+2.   Download [EFILOADER](https://github.com/x0reaxeax/c0wadlina/tree/main/EFILOADER) folder (or build it yourself: [CRZEFI](https://github.com/x0reaxeax/c0wadlina/tree/main/CRZEFI)) and place all files from it to the root directory of your USB, so the USB looks like this:
 ```
 USB
 ├── EFI
@@ -29,8 +29,8 @@ USB
 9.   Start Cold War and hop into a private Die Maschine lobby. (You need to be the host)
 10.  Once you're fully loaded into the game and you're free to move, pause the game and start `c0wadlina.exe`
 11.  Make sure the console window isn't placed on top of the game window!!!
-12.  The cheats should now be loaded. Enter the game PID and you're all set!!
-![Main Menu](https://i.imgur.com/rK2E9S2.png)
+12.  The cheats should now be loaded. Enter the game PID and you're all set!!  
+![Main Menu](https://i.imgur.com/PU76xfT.png)
 
 ## Additional info:
 'XPCTL menu' allows you to edit XP multipliers to your needs. However, the cheat was designed to treat all memory data as hex bytes, thus these values need to be entered as hex bytes.
@@ -42,3 +42,9 @@ The XPCTL menu only lets you write **2 bytes** MAX. So to set the multiplier to 
 ![FTOX bad value](https://i.imgur.com/vY50GPg.png).  
 Those values are no good for you. If the FTOX calculator spits such a value, just find another one:  
 ![FTOX good value](https://i.imgur.com/Mir7wAJ.png)
+
+
+## Credits
+ **TheCruZ**     -  [ EFI DAEMON - https://github.com/TheCruZ/EFI_Driver_Access ]  
+ **JayKoZa2015** -  [ ZM Offsets ]  
+ **x0reaxeax**   -  [ This Ugly Tool ]  
