@@ -9,6 +9,9 @@
 
 ### I am not responsible for any damage done by this tool. It was written for educational purposes. Cheating is against TOS, so if you get banned for using this tool, don't come crying to me.
 
+##### NOTE: This project is licensed under GNU GPLv3 License. Modifications are more then welcome, as long as the source and credits are disclosed.
+##### Selling this tool or modified versions of it is STRICTLY PROHIBITED.
+
 ## Step-By-Step tutorial on how to load c0wadlina:
 1.   Get a USB Flash Drive
 2.   Download [EFILOADER](https://github.com/x0reaxeax/c0wadlina/tree/main/EFILOADER) folder (or build it yourself: [CRZEFI](https://github.com/x0reaxeax/c0wadlina/tree/main/CRZEFI)) and place all files from it to the root directory of your USB, so the USB looks like this:
