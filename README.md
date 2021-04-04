@@ -6,6 +6,7 @@
  * Some handy reworks could implement automatic endianness swap, better code layout and performance adjustments.
  * The ugly globals could be replaced and templates for R/W could be implemented to get rid of duplicate code.
  * As for the system() calls, please please feel free to replace them, they're only used for clearing the screen (https://docs.microsoft.com/en-us/windows/console/clearing-the-screen) and for "pause" command.
+ * **I'm NOT going to be updating this tool, it is outdated and requires manual updating. Everything you need to update this (excluding the offsets) is already included in the tool itself.**
 
 ### I am not responsible for any damage done by this tool. It was written for educational purposes. Cheating is against TOS, so if you get banned for using this tool, don't come crying to me.
 
